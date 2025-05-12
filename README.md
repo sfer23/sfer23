@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/dmitry-shevlyakov-54099b7a/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dmytro-shevliakov/">LinkedIn</a> •
   <a href="https://www.upwork.com/freelancers/~019ca767ded111b4cd">Upwork</a> •
   <a href="https://github.com/sfer23/sfer23/blob/main/ABOUT.md">About Me</a> •
   <a href="https://www.quardex.com">Website</a>
